@@ -1,0 +1,9 @@
+1. Extract the ZIP.
+2. Read README.md and run python run_all.py.
+3. Review the six notebooks and reports; add your author details.
+4. Create a GitHub repository and upload these project contents.
+5. Copy the actual repository URL.
+6. For each portal task, upload its matching reports/ DOCX.
+7. Paste its matching submission/ Description.txt (all exceed 200 words).
+8. Add the actual GitHub URL and submit after reviewing.
+Reports are separate files, so do not upload the ZIP into a Word-only field.

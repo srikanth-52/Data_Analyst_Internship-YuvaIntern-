@@ -1,0 +1,29 @@
+{
+  "types": {
+    "age": "int",
+    "score": "float",
+    "name": "str",
+    "active": "bool",
+    "marks": "list",
+    "point": "tuple",
+    "unique": "set",
+    "record": "dict"
+  },
+  "summary": {
+    "mean": 24,
+    "median": 20,
+    "sample_std": 11.40175425099138
+  },
+  "squares": [
+    1,
+    4,
+    9,
+    16,
+    25
+  ],
+  "above_mean": [
+    30,
+    40
+  ],
+  "probability_above_20": 0.4
+}
